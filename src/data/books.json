@@ -1,0 +1,42 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "Harry Potter & the Sorcerer's Stone",
+    "authorName":"J. K. Rowling"
+  },
+  {
+    "bookId": 2,
+    "bookName": "Harry Potter & the Chamber of Secrets",
+    "authorName":"J. K. Rowling"
+  },
+  {
+    "bookId": 3,
+    "bookName": "Harry Potter & the Prisoner of Azkaban",
+    "authorName":"J. K. Rowling"
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Fellowship of the Ring",
+    "authorName":"J. R. R. Tolkien"
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Two Towers",
+    "authorName":"J. R. R. Tolkien"
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Return of the King",
+    "authorName":"J. R. R. Tolkien"
+  },
+  {
+    "bookId": 7,
+    "bookName": "The Way of the Shadows",
+    "authorName":"Brent Weeks"
+  },
+  {
+    "bookId": 8,
+    "bookName": "Beyond the Shadows",
+    "authorName":"Brent Weeks"
+  }
+]
